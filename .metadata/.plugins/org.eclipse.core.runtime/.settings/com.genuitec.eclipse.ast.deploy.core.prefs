@@ -1,0 +1,14 @@
+#Mon Feb 05 19:48:45 CST 2018
+tomcat7Server.shoplvyuan.type=WebDeployment
+tomcat7Server.shoplvyuan.isDeployed=true
+tomcat7Server.shoplvyuan.shouldOverwrite=false
+tomcat7Server.shoplvyuan.noFileCopy=false
+tomcat7Server.shoplvyuan.shouldBackup=false
+tomcat7Server.shoplvyuan.isExploded=true
+tomcat7Server.shoplvyuan.contextRoot=/shoplvyuan
+tomcat7Server.shoplvyuan.IEARProjectName=
+eclipse.preferences.version=1
+tomcat7Server.shoplvyuan.deploymentPath=D\:\\apache-tomcat-7.0.42\\webapps\\shoplvyuan
+tomcat7Server.shoplvyuan.isUptoDate=true
+tomcat7Server.shoplvyuan.deployIsOverProject=false
+tomcat7Server.shoplvyuan.altContextRoot=
